@@ -1,0 +1,3 @@
+config = {
+    adminFadeTime = 500
+}
